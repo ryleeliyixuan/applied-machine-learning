@@ -1,5 +1,5 @@
 # applied-machine-learning-project
-This is a repository for applied machine learning projects of CS5785 Applied Machine Learning course at Cornell Tech. 
+This is a repository for CS5785 Applied Machine Learning course at Cornell Tech. 
 
 # Content
 ## HW0-Visualization-of-Iris-Dataset
