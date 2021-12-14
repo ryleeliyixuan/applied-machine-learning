@@ -1,4 +1,4 @@
-# applied-machine-learning-project
+# CS5785-applied-machine-learning-Cornell-Tech
 This is a repository for CS5785 Applied Machine Learning course at Cornell Tech. 
 
 # Content
